@@ -137,7 +137,7 @@ let resumeData = {
         {
             "name":"Predicting Semiconductor Manufacturing Failures Part II",
             "description": "Decision Trees and SVMs",
-            "imgurl": "images/portfolio/Semiconductor2.jpg",
+            "imgurl": "images/portfolio/semicond.jpg",
             "link":"predicting-manufacturing-failures-with-decision-trees-and-svms.pdf"
         }, 
         {
