@@ -12,8 +12,8 @@ export default class Portfolio extends Component{
                                 return(
                                     <div className="columns portfolio-item">
                                         <div className="item-wrap">
-                                            <a style={{display: "table-cell"}} href= {item.link} target='_blank'>
-                                                <img src={`${item.imgurl}`} className="item-img"/>
+                                            <a rel="noopener noreferrer" href={item.link} target="_blank">
+                                                <img src={`${item.imgurl}`} className="item-img" alt=""/>
                                                 <div className="overlay">
                                                     <div className="portfolio-item-meta">
                                                         <h5>{item.name}</h5>
