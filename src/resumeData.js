@@ -125,50 +125,86 @@ let resumeData = {
         {
             "name":"Is There an 'I' in Team?",
             "description": "Forecasting NBA Team Wins and Playoff Berth from Individual Player Attributes",
-            "imgurl": "images/portfolio/nba.jpg",
-            "url":"https://github.com/thayer6"
-        },        
+            "imgurl": "images/portfolio/nba-lunch.jpg",
+            "link": "docs/predicting-nba-team-wins-and-playoff-berth-from-individual-player-attributes.pdf"
+        },    
         {
-            "name":"Predicting Semicondutor Manufacturing Failures",
-            "description": "Identify failures using Logistic Regression, Gradient Boosted Decision Trees, Support Vector Machines, and Deep Learning",
+            "name":"Predicting Semiconductor Manufacturing Failures Part III",
+            "description": "Dense and Recurrent Neural Networks",
+            "imgurl": "images/portfolio/robot.jpg",
+            "link": "predicting-manufacturing-failures-with-dense-and-recurrent-neural-networks.pdf"
+        },   
+        {
+            "name":"Predicting Semiconductor Manufacturing Failures Part II",
+            "description": "Decision Trees and SVMs",
+            "imgurl": "images/portfolio/Semiconductor2.jpg",
+            "link":"predicting-manufacturing-failures-with-decision-trees-and-svms.pdf"
+        }, 
+        {
+            "name":"Predicting Semicondutor Manufacturing Failures Part I",
+            "description": "Logistic Regression",
             "imgurl": "images/portfolio/semiconductor.jpg",
-            "url":"https://github.com/thayer6"
+            "link": "evaluating-manufacturing-success-with-logistic-regression.pdf"
         },
         {
-            "name":"project3",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
+            "name":"Payroll Software",
+            "description": "Built with C#",
+            "imgurl": "images/portfolio/money.jpg",
+            "link":"https://github.com/thayer6/pay-slip-generator-application"
         },
         {
-            "name":"project4",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
+            "name":"Evaluating NBA Player Attributes with Classic and Bayesian Statistics",
+            "description": "Digging deeper into the relationships between salary, Twitter activity, minutes played, etc. ",
+            "imgurl": "images/portfolio/nba.jpg",
+            "link":"evaluating-nba-player-attributes-with-classic-and-bayesian-statistics.pdf"
         },
         {
-            "name":"project5",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
+            "name":"NBA Win and Playoff Predictions with Naive Bayes",
+            "description": "Based on a number of attributes related to on and off court performance",
+            "imgurl": "images/portfolio/nba-cool.jpg",
+            "link":"nba-win-and-playoff-predictions-with-naive-bayes.pdf"
         },
         {
-            "name":"project6",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
+            "name":"NBA Player Attributes On and Off Court Exploratory Data Analysis",
+            "description": "Exploring on and off court individual player attributes",
+            "imgurl": "images/portfolio/nba-logo.jpg",
+            "link":"nba-player-attributes-on-and-off-court-exploratory-data-analysis.pdf"
+        },             
+        {
+            "name":"How Old is Nemo?",
+            "description": "Abalone fish age estimation with Support Vector Machines",
+            "imgurl": "images/portfolio/nemo.jpg",
+            "link":"abalone-fish-age-estimation-with-support-vector-machines.pdf"
         },
         {
-            "name":"project7",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
-        },        
+            "name":"High Risk Bank Customer Detection",
+            "description": "Utilizing Ensemble Models to identify high risk customers",
+            "imgurl": "images/portfolio/money-coins.jpg",
+            "link":"predicting-high-risk-bank-customers-with-ensemble-models.pdf"
+        },
         {
-            "name":"project8",
-            "description": "mobileapp",
-            "imgurl": "images/portfolio/phone.jpg",
-            "url":"https://github.com/thayer6"
+            "name":"Let's Make a Deal!",
+            "description": "Game show strategy simulation",
+            "imgurl": "images/portfolio/game-show.jpg",
+            "link":"game-show-strategy-simulation.pdf"
+        },
+        {
+            "name":"Going All In!",
+            "description": "Exploratory data analysis of head count in a casino",
+            "imgurl": "images/portfolio/casino.jpg",
+            "link":"casino-head-count-eda.pdf"
+        },
+        {
+            "name":"Breast Cancer Mass Classification",
+            "description": "Logistic Regression and Random Forest Classifer to identify breast cancer masses",
+            "imgurl": "images/portfolio/breast-cancer.png",
+            "link":"https://github.com/thayer6/breast-cancer-mass-classification"
+        },
+        {
+            "name":"Advertising Sales Regression Analysis",
+            "description": "Predicting the sales across multiple media markets",
+            "imgurl": "images/portfolio/ads.jpg",
+            "link":"advertising-sales-regression-analysis.pdf"
         },
     ]
 
