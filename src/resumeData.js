@@ -132,19 +132,19 @@ let resumeData = {
             "name":"Predicting Semiconductor Manufacturing Failures Part III",
             "description": "Dense and Recurrent Neural Networks",
             "imgurl": "images/portfolio/robot.jpg",
-            "link": "predicting-manufacturing-failures-with-dense-and-recurrent-neural-networks.pdf"
+            "link": "docs/predicting-manufacturing-failures-with-dense-and-recurrent-neural-networks.pdf"
         },   
         {
             "name":"Predicting Semiconductor Manufacturing Failures Part II",
             "description": "Decision Trees and SVMs",
             "imgurl": "images/portfolio/semicond.jpg",
-            "link":"predicting-manufacturing-failures-with-decision-trees-and-svms.pdf"
+            "link":"docs/predicting-manufacturing-failures-with-decision-trees-and-svms.pdf"
         }, 
         {
             "name":"Predicting Semicondutor Manufacturing Failures Part I",
             "description": "Logistic Regression",
             "imgurl": "images/portfolio/semiconductor.jpg",
-            "link": "evaluating-manufacturing-success-with-logistic-regression.pdf"
+            "link": "docs/evaluating-manufacturing-success-with-logistic-regression.pdf"
         },
         {
             "name":"Payroll Software",
@@ -156,43 +156,43 @@ let resumeData = {
             "name":"Evaluating NBA Player Attributes with Classic and Bayesian Statistics",
             "description": "Digging deeper into the relationships between salary, Twitter activity, minutes played, etc. ",
             "imgurl": "images/portfolio/nba.jpg",
-            "link":"evaluating-nba-player-attributes-with-classic-and-bayesian-statistics.pdf"
+            "link":"docs/evaluating-nba-player-attributes-with-classic-and-bayesian-statistics.pdf"
         },
         {
             "name":"NBA Win and Playoff Predictions with Naive Bayes",
             "description": "Based on a number of attributes related to on and off court performance",
             "imgurl": "images/portfolio/nba-cool.jpg",
-            "link":"nba-win-and-playoff-predictions-with-naive-bayes.pdf"
+            "link":"docs/nba-win-and-playoff-predictions-with-naive-bayes.pdf"
         },
         {
             "name":"NBA Player Attributes On and Off Court Exploratory Data Analysis",
             "description": "Exploring on and off court individual player attributes",
             "imgurl": "images/portfolio/nba-logo.jpg",
-            "link":"nba-player-attributes-on-and-off-court-exploratory-data-analysis.pdf"
+            "link":"docs/nba-player-attributes-on-and-off-court-exploratory-data-analysis.pdf"
         },             
         {
             "name":"How Old is Nemo?",
             "description": "Abalone fish age estimation with Support Vector Machines",
             "imgurl": "images/portfolio/nemo.jpg",
-            "link":"abalone-fish-age-estimation-with-support-vector-machines.pdf"
+            "link":"docs/abalone-fish-age-estimation-with-support-vector-machines.pdf"
         },
         {
             "name":"High Risk Bank Customer Detection",
             "description": "Utilizing Ensemble Models to identify high risk customers",
             "imgurl": "images/portfolio/money-coins.jpg",
-            "link":"predicting-high-risk-bank-customers-with-ensemble-models.pdf"
+            "link":"docs/predicting-high-risk-bank-customers-with-ensemble-models.pdf"
         },
         {
             "name":"Let's Make a Deal!",
             "description": "Game show strategy simulation",
             "imgurl": "images/portfolio/game-show.jpg",
-            "link":"game-show-strategy-simulation.pdf"
+            "link":"docs/game-show-strategy-simulation.pdf"
         },
         {
             "name":"Going All In!",
             "description": "Exploratory data analysis of head count in a casino",
             "imgurl": "images/portfolio/casino.jpg",
-            "link":"casino-head-count-eda.pdf"
+            "link":"docs/casino-head-count-eda.pdf"
         },
         {
             "name":"Breast Cancer Mass Classification",
@@ -204,7 +204,7 @@ let resumeData = {
             "name":"Advertising Sales Regression Analysis",
             "description": "Predicting the sales across multiple media markets",
             "imgurl": "images/portfolio/ads.jpg",
-            "link":"advertising-sales-regression-analysis.pdf"
+            "link":"docs/advertising-sales-regression-analysis.pdf"
         },
     ]
 

@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+
 export default class Portfolio extends Component{
     render(){
         let resumeData = this.props.resumeData;
@@ -11,17 +12,18 @@ export default class Portfolio extends Component{
                             {resumeData.portfolio && resumeData.portfolio.map((item)=>{
                                 return(
                                     <div className="columns portfolio-item">
-                                        <div className="item-wrap">
-                                            <a rel="noopener noreferrer" href={item.link} target="_blank">
-                                                <img src={`${item.imgurl}`} className="item-img" alt=""/>
-                                                <div className="overlay">
-                                                    <div className="portfolio-item-meta">
-                                                        <h5>{item.name}</h5>
-                                                        <p>{item.description}</p>
+                                        <a href={`${item.link}`}>
+                                            <div className="item-wrap">
+                                                    <img src={`${item.imgurl}`} className="item-img" alt=""/>
+                                                    <div className="overlay">
+                                                        <div className="portfolio-item-meta">
+                                                            <h5>{item.name}</h5>
+                                                            <p>{item.description}</p>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                            </a>
-                                        </div>
+                                            
+                                            </div>
+                                        </a>
                                     </div>
                                 )
                             })}
