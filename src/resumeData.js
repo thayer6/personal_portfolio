@@ -47,7 +47,7 @@ let resumeData = {
     ],
     "work":[
         {
-            "CompanyName": "Juno Therapeutics, a Bristol Myers Squibb Company",
+            "CompanyName": "Bristol Myers Squibb",
             "specialization": "Data Engineer",
             "StartDate": "March 2020",
             "EndDate": "Present",
@@ -70,7 +70,7 @@ let resumeData = {
 
         },
         {
-            "CompanyName": "Juno Therapeutics, a Bristol Myers Squibb Company",
+            "CompanyName": "Juno Therapeutics",
             "specialization": "Senior Reasarch Associate",
             "StartDate": "April 2017",
             "EndDate": "March 2020",
