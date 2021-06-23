@@ -34,7 +34,7 @@ let resumeData = {
             "specialization": "Molecular and Cellular Biology, BS & Mathematics Minor",
             "MonthOfPassing": "May",
             "YearOfPassing": "2014",
-            "Achievements": "Some Achievemnts"
+            "Achievements": "Varsity Student-Athlete (soccer and basketball), Vice President of the Student Athlete Advisory Committee, Executive Team Member of Global Medical Brigades, Member of Phi Sigma Biology Honors, John M. Fluke Scholar"
         },
         {
             "UniversityName": "University of Washington",
@@ -43,29 +43,36 @@ let resumeData = {
             "YearOfPassing": "2019",
             "Achievements": "Some Achievemnts"
         },
+        {
+            "UniversityName": "Johns Hopkins University (Coursera)",
+            "Specialization": "Genomic Data Science Specialization",
+            "MonthOfPassing": "",
+            "YearOfPassing": "2021",
+            "Achievements": ""
+        },
 
     ],
     "work":[
         {
             "CompanyName": "Bristol Myers Squibb",
-            "specialization": "Data Engineer",
+            "specialization": "Data Engineer / Associate Scientist",
             "StartDate": "March 2020",
             "EndDate": "Present",
-            "Description": "Innovating and implementing novel solutions to a data pipeline architecture for cell therapy functional teams through the development and commercialization of CAR-T cell therapies",
-            "Achievement1": "\u2022 Automate manual processes, data delivery, and re-design infrastructure for greater scalability",
-            "Achievement2": "\u2022 Optimize extraction, transformation and loading of data from a wide variety of data sources",
-            "Achievement3": "\u2022 Support 13 functional teams with training, documentation, and troubleshooting" ,
+            "Description": "Innovating and implementing novel solutions to a data pipeline architecture influencing cell therapy functional teams developing and commercializing CAR-T cell therapies",
+            "Achievement1": "\u2022 Create data automation solutions based on business needs from 13+ functional teams including frequent presentation, training, documentation, and troubleshooting efforts",
+            "Achievement2": "\u2022 Automate data capture and presentation of real time in-process measurements from bioreactors through custom software saving technicians 30+ hours per experiment of manual data manipulation",
+            "Achievement3": "\u2022 Orchestrate the strategy to streamline a business critical commercial vector lot release assay by leading a team of 10 members to scale capacity 4x and presenting progress to executive-level leadership teams" ,
             "Achievement4": " "
         },
         {
             "CompanyName": "Social Impact Analytics Institute",
-            "specialization": "Senior Data Scientist",
-            "StartDate": "February 2020",
+            "specialization": "Founder, Senior Data Scientist",
+            "StartDate": "August 2020",
             "EndDate": "Present",        
-            "Description": "Senior volunteer charged with building and leading a team of >12 data scientists to conduct research using cutting edge NLP to identify solutions to social problems",    
-            "Achievement1": "\u2022 Design and construct text engine for analysis through innovative NLP techniques",
-            "Achievement2": "\u2022 Establish and maintain Docker development environment",
-            "Achievement3": "\u2022 Build out Django web application to showcase volunteer projects" ,
+            "Description": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Establishing innovative modeling and analytics tools to research social problems and identify solutions",    
+            "Achievement1": "\u2022 Recruit and lead a team of 12+ data scientists, interviewing, onboarding, and mentoring all new members",
+            "Achievement2": "\u2022 Design and construct text engine with built in web scraping and document processing functionality for analysis with BERT",
+            "Achievement3": "\u2022 Produce Django web application to showcase program research" ,
             "Achievement4": " "
 
         },
@@ -86,9 +93,9 @@ let resumeData = {
             "specialization": "Research Technician I - II",
             "StartDate": "January 2015",
             "EndDate": "April 2017",
-            "Description": "Contributed to a leading flow cytometry laboratory in supporting global vaccine trials and developing novel methods to drive HIV vaccine research",
-            "Achievement1": "\u2022 Optimized custom assay to characterize polyfunctional HIV-specific T cells for FACS sorting and single-cell RNA sequencing",
-            "Achievement2": "\u2022 Quantified immune responses to evaluate the efficacy of vaccines in global clinical trials with multiparameter flow cytometry",
+            "Description": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research",
+            "Achievement1": "\u2022 Developed custom assay to characterize polyfunctional HIV-specific T cells for FACS sorting and single-cell RNA sequencing",
+            "Achievement2": "\u2022 Evaluated the efficacy of vaccines in global clinical trials with multiparameter flow cytometry to quantify immune responses",
             "Achievement3": " " ,
             "Achievement4": " "
 
@@ -109,13 +116,17 @@ let resumeData = {
             "skilldescript": "Ensemble Models, Random Forest, Decision Trees, Support Vector Machines, Deep Learning with TensorFlow (RNN, DNN, CNN), Naive Bayes, K-Means Clustering, Linear Regression & Classification"
         },
         {
-            "skillname": "Full-Stack Web Development",
-            "skilldescript": "Django REST Framework, PostgreSQL, HTML, CSS"
-        },        
-        {
             "skillname": "Natural Language Processing (NLP)",
-            "skilldescript": "Web scraping, text processing and classification, sentiment analysis, topic modeling"
+            "skilldescript": "Web scraping, text processing and classification, sentiment analysis, topic modeling, BERT"
         },
+        {
+            "skillname": "Bioinformatics",
+            "skilldescript": "Next-generation sequencing (NGS) analysis of RNA-seq and ChIP-seq data with Galaxy"
+        },
+        {
+            "skillname": "Full-Stack Web Development",
+            "skilldescript": "Django, PostgreSQL, HTML, CSS"
+        },        
         {
             "skillname": "Statistics",
             "skilldescript": "Bayes theorem, PCA, regularization, probability, hypothesis testing, bootstrapping, mixed models, equivalence testing, growth rate modeling"
