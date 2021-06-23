@@ -45,9 +45,9 @@ let resumeData = {
         },
         {
             "UniversityName": "Johns Hopkins University (Coursera)",
-            "Specialization": "Genomic Data Science Specialization",
+            "specialization": "Genomic Data Science Specialization",
             "MonthOfPassing": "",
-            "YearOfPassing": "2021",
+            "YearOfPassing": " Expected July 2021",
             "Achievements": ""
         },
 
