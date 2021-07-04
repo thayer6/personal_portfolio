@@ -15,8 +15,9 @@ return (
                 <p className='text-left'>{resumeData.aboutme1}</p>
                 <p className='text-left'>{resumeData.aboutme2}</p>
                 <p className='text-left'>{resumeData.aboutme3}</p>
-                
-                
+                <p className='text-left'>{resumeData.aboutme4}</p>
+                <p className='text-left'>{resumeData.aboutme5}</p>
+                <p className='text-left'>{resumeData.aboutme6}</p>                
             </div>
         </div>
     </section>
