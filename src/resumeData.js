@@ -58,10 +58,10 @@ let resumeData = {
             "specialization": "Data Engineer / Associate Scientist",
             "StartDate": "March 2020",
             "EndDate": "Present",
-            "Description": "Innovating and implementing novel solutions to a data pipeline architecture influencing cell therapy functional teams developing and commercializing CAR-T cell therapies",
-            "Achievement1": "\u2022 Create data automation solutions based on business needs from 13+ functional teams including frequent presentation, training, documentation, and troubleshooting efforts",
-            "Achievement2": "\u2022 Automate data capture and presentation of real time in-process measurements from bioreactors through custom software saving technicians 30+ hours per experiment of manual data manipulation",
-            "Achievement3": "\u2022 Orchestrate the strategy to streamline a business critical commercial vector lot release assay by leading a team of 10 members to scale capacity 4x and presenting progress to executive-level leadership teams" ,
+            "Description": "Innovating and implementing custom software to optimize data pipelines for teams developing / commercializing CAR-T cell therapies",
+            "Achievement1": "\u2022 Creating data automation solutions for 13+ functional teams based on business needs involving frequent presentation, training, documentation, and troubleshooting efforts",
+            "Achievement2": "\u2022 Directing the strategy to streamline a business-critical commercial vector lot release assay by leading a team of 10 to scale capacity 4x through robust statistical equivalence testing and presenting progress to executive-level leadership teams",
+            "Achievement3": "\u2022 Automated data capture and display of real time in-process measurements from bioreactors through custom software saving technicians 30+ hours per experiment of manual data manipulation" ,
             "Achievement4": " "
         },
         {
@@ -69,10 +69,10 @@ let resumeData = {
             "specialization": "Founder, Senior Data Scientist",
             "StartDate": "August 2020",
             "EndDate": "Present",        
-            "Description": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Establishing innovative modeling and analytics tools to research social problems and identify solutions",    
-            "Achievement1": "\u2022 Recruit and lead a team of 12+ data scientists, interviewing, onboarding, and mentoring all new members",
-            "Achievement2": "\u2022 Design and construct text engine with built in web scraping and document processing functionality for analysis with BERT",
-            "Achievement3": "\u2022 Produce Django web application to showcase program research" ,
+            "Description": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Established innovative modeling and analytics tools to research social problems and identify solutions",    
+            "Achievement1": "\u2022 Designing and constructing a text analytics engine with built in web scraping and document processing for analysis with BERT to extract insights from 100+ documents at one time",
+            "Achievement2": "\u2022 Recruiting and led a team of 12+ data scientists, interviewing, onboarding, and mentoring all new members",
+            "Achievement3": "\u2022 Producing a Django web application to showcase program research to secure funding and publish results" ,
             "Achievement4": " "
 
         },
@@ -83,8 +83,8 @@ let resumeData = {
             "EndDate": "March 2020",
             "Description": "Designed and executed lab experiments to develop manufacturing processes for CAR-T cell therapy products",         
             "Achievement1": "\u2022 Led cross-functional team to characterize, qualify, and implement a high throughput screening platform cutting costs by 30% and increasing efficiency by more than 3x",
-            "Achievement2": "\u2022 Synthesized data from multiple sources, kept a detailed electronic lab notebook, presented results, and authored technical reports",
-            "Achievement3": "\u2022 Directed a team to establish in-process flow cytometry screening tools, leading training and troubleshooting efforts" ,
+            "Achievement2": "\u2022 Authored technical reports by synthesizing data from 7+ sources, analyzing results, and keeping detailed electronic lab notebooks",
+            "Achievement3": "\u2022 Managed a team of 5 to establish in-process flow cytometry screening tools, leading training and troubleshooting efforts" ,
             "Achievement4": " "
 
         },
@@ -104,33 +104,13 @@ let resumeData = {
     "skillsDescription": "",
     "skills": [
         {
-            "skillname": "Programming Languages / Tools",
-            "skilldescript": "Python, R, C#, SQL, Git, Docker, Bash"
+            "skillname": "Technical",
+            "skilldescript": "Python, R, C#, SQL, Git, Docker, Bash, HTML, CSS, React, AWS S3"
         },
         {
-            "skillname": "Operating Systems",
-            "skilldescript": "MacOS, Windows, Ubuntu Linux"
+            "skillname": "Biotechnology",
+            "skilldescript": "Flow cytometry, cell therapy and gene therapy development (manufacturing and small scale), NGS data analysis (RNA-seq and ChIP-seq), project management, techincal writing"
         },
-        {
-            "skillname": "Machine Learning",
-            "skilldescript": "Ensemble Models, Random Forest, Decision Trees, Support Vector Machines, Deep Learning with TensorFlow (RNN, DNN, CNN), Naive Bayes, K-Means Clustering, Linear Regression & Classification"
-        },
-        {
-            "skillname": "Natural Language Processing (NLP)",
-            "skilldescript": "Web scraping, text processing and classification, sentiment analysis, topic modeling, BERT"
-        },
-        {
-            "skillname": "Bioinformatics",
-            "skilldescript": "Next-generation sequencing (NGS) analysis of RNA-seq and ChIP-seq data with Galaxy"
-        },
-        {
-            "skillname": "Full-Stack Web Development",
-            "skilldescript": "Django, PostgreSQL, HTML, CSS"
-        },        
-        {
-            "skillname": "Statistics",
-            "skilldescript": "Bayes theorem, PCA, regularization, probability, hypothesis testing, bootstrapping, mixed models, equivalence testing, growth rate modeling"
-        }
     ],
     "portfolio":[
         {
