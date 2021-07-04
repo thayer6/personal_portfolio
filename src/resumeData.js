@@ -96,8 +96,8 @@ let resumeData = {
             "Description": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research",
             "Achievement1": "\u2022 Developed custom assay to characterize polyfunctional HIV-specific T cells for FACS sorting and single-cell RNA sequencing",
             "Achievement2": "\u2022 Evaluated the efficacy of vaccines in global clinical trials with multiparameter flow cytometry to quantify immune responses",
-            "Achievement3": " " ,
-            "Achievement4": " "
+            "Achievement3": "" ,
+            "Achievement4": ""
 
         },
     ],
