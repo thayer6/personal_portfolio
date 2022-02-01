@@ -22,7 +22,7 @@ let resumeData = {
         }
     ],
 
-    "aboutme1": "Hi there! I’m Casey Thayer, a Data Engineer at Bristol-Myers Squibb, where I build data pipelines and tools for optimizing the manufacturing processes of CAR-T cell therapies to fight cancer. ",
+    "aboutme1": "Hi there! I’m Casey Thayer, an Analytics Engineer at Zelus Analytics, where I build and automate the cloud infrastructure for deploying quantiative models within the sports intelligence platform.",
     "aboutme2": "I'm also very passionate about using AI and machine learning to solve social problems. In my spare time, I volunteer as a Senior Data Scientist with the Social Impact Analytics Institute, leading a team of 12 volunteers conducting research using cutting edge NLP to identify solutions to social problems. ",
     "aboutme3": "The goal of this website is to serve as a place where I can share the projects I’m working on and link up with anyone who is willing to deep dive with me! As you can see from many of the project topics, sports are one of my passions. I’ve been an athlete all my life and was fortunate enough to play soccer and basketball in college. You won’t find a Saturday morning where I’m not watching Arsenal FC! That being said, Hotspur fans ARE welcome 🙂",
     
@@ -43,21 +43,20 @@ let resumeData = {
             "YearOfPassing": "2019",
             "Achievements": "Some Achievemnts"
         },
-        {
-            "UniversityName": "Johns Hopkins University",
-            "specialization": "Genomic Data Science Coursera Specialization",
-            "MonthOfPassing": "",
-            "YearOfPassing": " Expected July 2021",
-            "Achievements": ""
-        },
-
     ],
     "work":[
+        {    
+            "CompanyName": "Zelus Analytics",
+            "specialization": "Analytics Engineer",
+            "StartDate": "October 2021",
+            "EndDate": "Present",
+            "Description": "Build infrastructure for cloud based deployments of quantitative models and automate complex data pipelines for NBA teams",
+        },
         {
             "CompanyName": "Bristol Myers Squibb",
-            "specialization": "Data Engineer / Associate Scientist",
+            "specialization": "Data Engineer / Scientist",
             "StartDate": "March 2020",
-            "EndDate": "Present",
+            "EndDate": "October 2021",
             "Description": "Innovating and implementing custom software to optimize data pipelines for teams developing / commercializing CAR-T cell therapies",
             "Achievement1": "\u2022 Creating data automation solutions for 13+ functional teams based on business needs involving frequent presentation, training, documentation, and troubleshooting efforts",
             "Achievement2": "\u2022 Directing the strategy to streamline a business-critical commercial vector lot release assay by leading a team of 10 to scale capacity 4x through robust statistical equivalence testing and presenting progress to executive-level leadership teams",
