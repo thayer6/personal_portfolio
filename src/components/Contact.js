@@ -12,7 +12,7 @@ render() {
                 <aside className="eight columns footer-widgets">
                     <div className="widget">
                         <h4 className="text-left">Casey Thayer</h4>
-                        <h4 className="text-left"><a href="mailto:casey.thayer6@gmail.com">casey.thayer6@gmail.com</a></h4>
+                        <h4 className="text-left"><a href="mailto:casey.thayer6@gmail.com">Email me</a></h4>
                     </div>
                 </aside>
             </div>
