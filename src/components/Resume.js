@@ -21,9 +21,6 @@ export default class Resume extends Component{
                                         </p>
                                         <ul>
                                             <li>{item.Achievement1}</li>
-                                            <li>{item.Achievement2}</li>
-                                            <li>{item.Achievement3}</li>
-                                            <li>{item.Achievement4}</li>
                                         </ul>
                                     </div>
                                 </div>
