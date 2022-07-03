@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://ivy555.github.io/",
     "name": "Casey Thayer",
-    "role": "Data Engineer | Data Scientist",
+    "role": "Machine Learning Engineer",
     "linkedinId":"casey-thayer",
     "roleDescription": "",
     "socialLinks":[
@@ -41,70 +41,56 @@ let resumeData = {
             "specialization": "Data Science Certificate",
             "MonthOfPassing": "June",
             "YearOfPassing": "2019",
-            "Achievements": "Some Achievemnts"
+            "Achievements": "Some Achievements"
         },
     ],
     "work":[
         {    
             "CompanyName": "Zelus Analytics",
-            "specialization": "Analytics Engineer",
+            "specialization": "Machine Learning Engineer",
             "StartDate": "October 2021",
             "EndDate": "Present",
-            "Description": "Build infrastructure for cloud based deployments of quantitative models and automate complex data pipelines for NBA teams",
+            "Description": "",
+            "Achievement1": ""
         },
         {
             "CompanyName": "Bristol Myers Squibb",
             "specialization": "Data Engineer / Scientist",
             "StartDate": "March 2020",
             "EndDate": "October 2021",
-            "Description": "Innovating and implementing custom software to optimize data pipelines for teams developing / commercializing CAR-T cell therapies",
-            "Achievement1": "\u2022 Creating data automation solutions for 13+ functional teams based on business needs involving frequent presentation, training, documentation, and troubleshooting efforts",
-            "Achievement2": "\u2022 Directing the strategy to streamline a business-critical commercial vector lot release assay by leading a team of 10 to scale capacity 4x through robust statistical equivalence testing and presenting progress to executive-level leadership teams",
-            "Achievement3": "\u2022 Automated data capture and display of real time in-process measurements from bioreactors through custom software saving technicians 30+ hours per experiment of manual data manipulation" ,
-            "Achievement4": " "
+            "Description": ""
+            "Achievement1": "Innovated and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
         },
         {
             "CompanyName": "Social Impact Analytics Institute",
             "specialization": "Founder, Senior Data Scientist",
             "StartDate": "August 2020",
-            "EndDate": "Present",        
-            "Description": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Established innovative modeling and analytics tools to research social problems and identify solutions",    
-            "Achievement1": "\u2022 Designing and constructing a text analytics engine with built in web scraping and document processing for analysis with BERT to extract insights from 100+ documents at one time",
-            "Achievement2": "\u2022 Recruiting and led a team of 12+ data scientists, interviewing, onboarding, and mentoring all new members",
-            "Achievement3": "\u2022 Producing a Django web application to showcase program research to secure funding and publish results" ,
-            "Achievement4": " "
-
+            "EndDate": "Present",
+            "Description": ""
+            "Achievement1": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Established novel modeling and analytics tools to research social problems and identify solutions"    
         },
         {
             "CompanyName": "Juno Therapeutics",
             "specialization": "Senior Reasarch Associate",
             "StartDate": "April 2017",
             "EndDate": "March 2020",
-            "Description": "Designed and executed lab experiments to develop manufacturing processes for CAR-T cell therapy products",         
-            "Achievement1": "\u2022 Led cross-functional team to characterize, qualify, and implement a high throughput screening platform cutting costs by 30% and increasing efficiency by more than 3x",
-            "Achievement2": "\u2022 Authored technical reports by synthesizing data from 7+ sources, analyzing results, and keeping detailed electronic lab notebooks",
-            "Achievement3": "\u2022 Managed a team of 5 to establish in-process flow cytometry screening tools, leading training and troubleshooting efforts" ,
-            "Achievement4": " "
-
+            "Description": ""
+            "Achievement1": "Designed and executed lab experiments to develop manufacturing processes for CAR-T cell therapy products"         
         },
         {
             "CompanyName": "Fred Hutchinson Cancer Research Center",
             "specialization": "Research Technician I - II",
             "StartDate": "January 2015",
             "EndDate": "April 2017",
-            "Description": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research",
-            "Achievement1": "\u2022 Developed custom assay to characterize polyfunctional HIV-specific T cells for FACS sorting and single-cell RNA sequencing",
-            "Achievement2": "\u2022 Evaluated the efficacy of vaccines in global clinical trials with multiparameter flow cytometry to quantify immune responses",
-            "Achievement3": "" ,
-            "Achievement4": ""
-
+            "Description": ""
+            "Achievement1": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research",
         },
     ],
     "skillsDescription": "",
     "skills": [
         {
             "skillname": "Technical",
-            "skilldescript": "Python, R, C#, SQL, Git, Docker, Bash, HTML, CSS, React, AWS S3"
+            "skilldescript": "Python, R, C#, SQL, Docker, Bash, HTML, CSS, React, Google Cloud Platform, AWS S3"
         },
         {
             "skillname": "Biotechnology",
