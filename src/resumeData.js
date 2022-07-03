@@ -60,7 +60,7 @@ let resumeData = {
             "EndDate": "October 2021",
             "Description": ""
             "Achievement1": "Innovated and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
-        },
+        }
         {
             "CompanyName": "Social Impact Analytics Institute",
             "specialization": "Founder, Senior Data Scientist",
@@ -83,7 +83,7 @@ let resumeData = {
             "StartDate": "January 2015",
             "EndDate": "April 2017",
             "Description": ""
-            "Achievement1": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research",
+            "Achievement1": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research"
         },
     ],
     "skillsDescription": "",
