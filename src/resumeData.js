@@ -22,9 +22,9 @@ let resumeData = {
         }
     ],
 
-    "aboutme1": "Hi there! I’m Casey Thayer, an Analytics Engineer at Zelus Analytics, where I build and automate the cloud infrastructure for deploying quantiative models within the sports intelligence platform.",
+    "aboutme1": "Hi there! I’m Casey Thayer, a Machine Learning Engineer at Zelus Analytics, where I build and automate quantiative models to be deployed in cloud infrastructure. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
     "aboutme2": "I'm also very passionate about using AI and machine learning to solve social problems. In my spare time, I volunteer as a Senior Data Scientist with the Social Impact Analytics Institute, leading a team of 12 volunteers conducting research using cutting edge NLP to identify solutions to social problems. ",
-    "aboutme3": "The goal of this website is to serve as a place where I can share the projects I’m working on and link up with anyone who is willing to deep dive with me! As you can see from many of the project topics, sports are one of my passions. I’ve been an athlete all my life and was fortunate enough to play soccer and basketball in college. You won’t find a Saturday morning where I’m not watching Arsenal FC! That being said, Hotspur fans ARE welcome 🙂",
+    "aboutme3": "When I'm not staring at my computer, you can find me on the ski slopes, running with my dog, or pretending to still be a dual sport collegiate athlete at basketball / soccer pick up games. When I'm staring at my TV, I'm probably watching my favorite teams play (Arsenal FC, Denver Nuggets, Denver Broncos, and the USWNT).",
     
     "address": "",
     "website":"",
@@ -46,54 +46,63 @@ let resumeData = {
     ],
     "work":[
         {    
-            "CompanyName": "Zelus Analytics",
+            "CompanyName": "🏀 Zelus Analytics",
             "specialization": "Machine Learning Engineer",
             "StartDate": "October 2021",
             "EndDate": "Present",
             "Description": "",
             "Achievement1": ""
         },
+        {    
+            "CompanyName": "🚚 Algorithmic Logistics",
+            "specialization": "Software Engineer (Part-Time)",
+            "StartDate": "March 2022",
+            "EndDate": "Present",
+            "Description": "",
+            "Achievement1": ""
+        },
         {
-            "CompanyName": "Bristol Myers Squibb",
+            "CompanyName": "💻 Bristol Myers Squibb",
             "specialization": "Data Engineer / Scientist",
             "StartDate": "March 2020",
             "EndDate": "October 2021",
-            "Description": ""
-            "Achievement1": "Innovated and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
-        }
+            "Description": "",
+            "Achievement1": "Developed and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
+        },
         {
-            "CompanyName": "Social Impact Analytics Institute",
+            "CompanyName": "📈 Social Impact Analytics Institute",
             "specialization": "Founder, Senior Data Scientist",
             "StartDate": "August 2020",
             "EndDate": "Present",
-            "Description": ""
-            "Achievement1": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence. Established novel modeling and analytics tools to research social problems and identify solutions"    
+            "Description": "",
+            "Achievement1": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence"    
         },
         {
-            "CompanyName": "Juno Therapeutics",
+            "CompanyName": "🧬 Juno Therapeutics",
             "specialization": "Senior Reasarch Associate",
             "StartDate": "April 2017",
             "EndDate": "March 2020",
-            "Description": ""
+            "Description": "",
             "Achievement1": "Designed and executed lab experiments to develop manufacturing processes for CAR-T cell therapy products"         
         },
         {
-            "CompanyName": "Fred Hutchinson Cancer Research Center",
+            "CompanyName": "🔬 Fred Hutchinson Cancer Research Center",
             "specialization": "Research Technician I - II",
             "StartDate": "January 2015",
             "EndDate": "April 2017",
-            "Description": ""
+            "Description": "",
             "Achievement1": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research"
         },
     ],
     "skillsDescription": "",
     "skills": [
         {
-            "skillname": "Technical",
-            "skilldescript": "Python, R, C#, SQL, Docker, Bash, HTML, CSS, React, Google Cloud Platform, AWS S3"
+            "skillname": "",
+            "skilldescript": "Python, R, C#, SQL, Docker, Bash, HTML, CSS, React, Google Cloud Platform, AWS S3",
+            "imgurl": "",
         },
         {
-            "skillname": "Biotechnology",
+            "skillname": "",
             "skilldescript": "Flow cytometry, cell therapy and gene therapy development (manufacturing and small scale), NGS data analysis (RNA-seq and ChIP-seq), project management, techincal writing"
         },
     ],

@@ -8,7 +8,7 @@ return (
     <section id="about">
         <div className="row">
             <div className="three columns">
-                <img className="profile-pic" src="images/profile-pic.jpg" alt=""/>
+                <img className="profile-pic" src="images/portfolio/profile-pic.jpeg" alt=""/>
             </div>
             <div className="nine columns main-col">
                 <h2 className="text-left">About Me</h2>

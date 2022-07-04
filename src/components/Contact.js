@@ -5,16 +5,13 @@ render() {
         <section id="contact">
             <div className="row section-head">
                 <div className="ten columns">
-                    <p className="lead text-left">Contact me:</p>
+                    <h1>Contact me:</h1>
+                    <h4 className="text-left">Connect with me on  
+                    <a href="www.linkedin.com/in/casey-thayer/"> LinkedIn </a> 
+                    or view my open source work on 
+                    <a href="github.com/thayer6"> Github</a>
+                    </h4>
                 </div>
-            </div>
-            <div className="row">
-                <aside className="eight columns footer-widgets">
-                    <div className="widget">
-                        <h4 className="text-left">Casey Thayer</h4>
-                        <h4 className="text-left"><a href="mailto:casey.thayer6@gmail.com">Email me</a></h4>
-                    </div>
-                </aside>
             </div>
         </section>
     );
