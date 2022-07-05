@@ -7,7 +7,7 @@ export default class Resume extends Component{
 
                 <div className="row work">
                     <div className="three columns header-col">
-                        <h1><span>Work</span></h1>
+                        <h1><span>On the Court</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         {resumeData.work && resumeData.work.map((item)=>{
@@ -28,9 +28,32 @@ export default class Resume extends Component{
                         })}
                     </div>
                 </div>
+                <div className="row work">
+                    <div className="three columns header-col">
+                        <h1><span>Off the Court</span></h1>
+                    </div>
+                    <div className="nine columns main-col">
+                        {resumeData.additionalWork && resumeData.additionalWork.map((item)=>{
+                            return(
+                                <div className="row item">
+                                    <div className="twelve columns">
+                                        <h3>{item.name}</h3>
+                                        <p className="info">
+                                            {item.title}
+                                            <a href={item.link}>{item.extrainfo}</a>
+                                        </p>
+                                        <p className="descript">
+                                            {item.descript}
+                                        </p>
+                                    </div>
+                                </div>
+                            )
+                        })}
+                    </div>
+                </div>
                 <div className="row skill">
                     <div className="three columns header-col">
-                        <h1><span>Skills</span></h1>
+                        <h1><span>Scouting Report</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         <ul className="skills">
@@ -39,8 +62,8 @@ export default class Resume extends Component{
                                     <div className="row item">
                                     <div className="twelve columns">
                                     {/*<img src={`${item.imgurl}`} className="skill-thumbnail" alt=""/>*/}
-                                        <h6>{item.skillname}</h6>
-                                        <p className="info">
+                                        <h3>{item.skillname}</h3>
+                                        <p className="descript">
                                             {item.skilldescript}
                                         </p>
                                     </div>
@@ -53,7 +76,7 @@ export default class Resume extends Component{
                 </div>
                 <div className="row education">
                     <div className="three columns header-col">
-                        <h1><span>Education</span></h1>
+                        <h1><span>Alma Mater</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         {resumeData.education && resumeData.education.map((item)=>{

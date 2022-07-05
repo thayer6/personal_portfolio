@@ -22,7 +22,7 @@ let resumeData = {
         }
     ],
 
-    "aboutme1": "Hi there! I’m Casey Thayer, a Machine Learning Engineer at Zelus Analytics, where I build and automate quantiative models to be deployed in cloud infrastructure. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
+    "aboutme1": "Hi there! I’m Casey Thayer, a Machine Learning Engineer at Zelus Analytics, where I build, automate, and deploy quantiative models to help professional teams compete and win championships. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
     "aboutme2": "I'm also very passionate about using AI and machine learning to solve social problems. In my spare time, I volunteer as a Senior Data Scientist with the Social Impact Analytics Institute, leading a team of 12 volunteers conducting research using cutting edge NLP to identify solutions to social problems. ",
     "aboutme3": "When I'm not staring at my computer, you can find me on the ski slopes, running with my dog, or pretending to still be a dual sport collegiate athlete at basketball / soccer pick up games. When I'm staring at my TV, I'm probably watching my favorite teams play (Arsenal FC, Denver Nuggets, Denver Broncos, and the USWNT).",
     
@@ -30,14 +30,14 @@ let resumeData = {
     "website":"",
     "education":[
         {
-            "UniversityName": "University of Puget Sound",
+            "UniversityName": "🏫 University of Puget Sound",
             "specialization": "Molecular and Cellular Biology, BS & Mathematics Minor",
             "MonthOfPassing": "May",
             "YearOfPassing": "2014",
             "Achievements": "Varsity Student-Athlete (soccer and basketball), Vice President of the Student Athlete Advisory Committee, Executive Team Member of Global Medical Brigades, Member of Phi Sigma Biology Honors, John M. Fluke Scholar"
         },
         {
-            "UniversityName": "University of Washington",
+            "UniversityName": "📜 University of Washington",
             "specialization": "Data Science Certificate",
             "MonthOfPassing": "June",
             "YearOfPassing": "2019",
@@ -51,15 +51,7 @@ let resumeData = {
             "StartDate": "October 2021",
             "EndDate": "Present",
             "Description": "",
-            "Achievement1": ""
-        },
-        {    
-            "CompanyName": "🚚 Algorithmic Logistics",
-            "specialization": "Software Engineer (Part-Time)",
-            "StartDate": "March 2022",
-            "EndDate": "Present",
-            "Description": "",
-            "Achievement1": ""
+            "Achievement1": "Building sports intelligence platforms by building, automating, and deploying quantitative models to help professional sports teams compete and win championships"
         },
         {
             "CompanyName": "💻 Bristol Myers Squibb",
@@ -68,14 +60,6 @@ let resumeData = {
             "EndDate": "October 2021",
             "Description": "",
             "Achievement1": "Developed and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
-        },
-        {
-            "CompanyName": "📈 Social Impact Analytics Institute",
-            "specialization": "Founder, Senior Data Scientist",
-            "StartDate": "August 2020",
-            "EndDate": "Present",
-            "Description": "",
-            "Achievement1": "Founding member of a non-profit focused on using data science and AI/ML to combat school violence"    
         },
         {
             "CompanyName": "🧬 Juno Therapeutics",
@@ -94,15 +78,42 @@ let resumeData = {
             "Achievement1": "Contributed to a cutting-edge flow cytometry laboratory in supporting global vaccine trials and innovating novel methods to drive HIV vaccine research"
         },
     ],
+    "offthecourt": "",
+    "additionalWork": [
+        {
+            "name": "📈 Social Impact Analytics Institute",
+            "title": "Non-Profit Founder, Senior Data Scientist",
+            "descript": "Founding member of a non-profit focused on using data science and AI/ML to research social problems and develop innovative tools to identify solutions",
+            "extrainfo": " -- website",
+            "link": "https://siainstitute.org"
+        },
+        {
+            "name": "🚚 Algorithmic Logistics",
+            "title": "Software Engineer",
+            "descript": "Building robust data pipelines to algorithmically pair available truck loads with truck drivers",
+            "extrainfo":"",
+            "link": ""
+        },
+    ],
     "skillsDescription": "",
     "skills": [
         {
-            "skillname": "",
-            "skilldescript": "Python, R, C#, SQL, Docker, Bash, HTML, CSS, React, Google Cloud Platform, AWS S3",
+            "skillname": "🧰 Data Storage",
+            "skilldescript": "PostgreSQL, BigQuery, Google Cloud Storage, AWS S3",
             "imgurl": "",
         },
         {
-            "skillname": "",
+            "skillname": "🛠️ Programming",
+            "skilldescript": "Python (Django, Flask, data cleaning, modeling), R (Shiny, data manipulation, data visualization), C#, SQL, Bash, HTML, CSS, Javascript (React, Node)",
+            "imgurl": "",
+        },
+        {
+            "skillname": "🚀 Deployment / Cloud Computing",
+            "skilldescript": "Docker, Kubernetes, Apache Airflow, Google Cloud Platform, Amazon Web Services",
+            "imgurl": "",
+        },
+        {
+            "skillname": "🧪 Biotechnology",
             "skilldescript": "Flow cytometry, cell therapy and gene therapy development (manufacturing and small scale), NGS data analysis (RNA-seq and ChIP-seq), project management, techincal writing"
         },
     ],
@@ -174,22 +185,10 @@ let resumeData = {
             "link":"docs/game-show-strategy-simulation.pdf"
         },
         {
-            "name":"Going All In!",
-            "description": "Exploratory data analysis of head count in a casino",
-            "imgurl": "images/portfolio/casino.jpg",
-            "link":"docs/casino-head-count-eda.pdf"
-        },
-        {
             "name":"Breast Cancer Mass Classification",
             "description": "Logistic Regression and Random Forest Classifer to identify breast cancer masses",
             "imgurl": "images/portfolio/breast-cancer.png",
             "link":"https://github.com/thayer6/breast-cancer-mass-classification"
-        },
-        {
-            "name":"Advertising Sales Regression Analysis",
-            "description": "Predicting the sales across multiple media markets",
-            "imgurl": "images/portfolio/ads.jpg",
-            "link":"docs/advertising-sales-regression-analysis.pdf"
         },
     ]
 
