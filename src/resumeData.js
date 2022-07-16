@@ -23,8 +23,7 @@ let resumeData = {
     ],
 
     "aboutme1": "Hi there! I’m Casey Thayer, a Machine Learning Engineer at Zelus Analytics, where I build, automate, and deploy quantiative models to help professional teams compete and win championships. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
-    "aboutme2": "I'm also very passionate about using AI and machine learning to solve social problems. In my spare time, I volunteer as a Senior Data Scientist with the Social Impact Analytics Institute, leading a team of 12 volunteers conducting research using cutting edge NLP to identify solutions to social problems. ",
-    "aboutme3": "When I'm not staring at my computer, you can find me on the ski slopes, running with my dog, or pretending to still be a dual sport collegiate athlete at basketball / soccer pick up games. When I'm staring at my TV, I'm probably watching my favorite teams play (Arsenal FC, Denver Nuggets, Denver Broncos, and the USWNT).",
+    "aboutme3": "When I'm not staring at my computer, you can find me on the ski slopes, running with my dog, playing any sport possible, or watching my favorite teams play (Arsenal FC, Denver Nuggets, Denver Broncos, and the USWNT).",
     
     "address": "",
     "website":"",
