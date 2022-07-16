@@ -58,7 +58,7 @@ let resumeData = {
             "StartDate": "March 2020",
             "EndDate": "October 2021",
             "Description": "",
-            "Achievement1": "Developed and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
+            "Achievement1": "Establish and implemented custom software to optimize data pipelines for teams developing & commercializing CAR-T cell therapies"
         },
         {
             "CompanyName": "🧬 Juno Therapeutics",
@@ -66,7 +66,7 @@ let resumeData = {
             "StartDate": "April 2017",
             "EndDate": "March 2020",
             "Description": "",
-            "Achievement1": "Designed and executed lab experiments to develop manufacturing processes for CAR-T cell therapy products"         
+            "Achievement1": "Designed and executed lab experiments to create manufacturing processes for CAR-T cell therapy products"         
         },
         {
             "CompanyName": "🔬 Fred Hutchinson Cancer Research Center",
