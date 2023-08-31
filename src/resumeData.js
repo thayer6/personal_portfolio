@@ -1,7 +1,7 @@
 let resumeData = {
     "imagebaseurl":"https://ivy555.github.io/",
     "name": "Casey Thayer",
-    "role": "Machine Learning Engineer",
+    "role": "Lead Engineer",
     "linkedinId":"casey-thayer",
     "roleDescription": "",
     "socialLinks":[
@@ -22,7 +22,7 @@ let resumeData = {
         }
     ],
 
-    "aboutme1": "Hi there! I’m Casey Thayer, a Machine Learning Engineer at Zelus Analytics, where I build, automate, and deploy quantiative models to help professional sports teams compete and win championships. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
+    "aboutme1": "Hi there! I’m Casey Thayer, an Engineering Lead at Zelus Analytics, where I build, automate, and deploy quantiative models to help professional sports teams compete and win championships. While much of my work spans multiple sports, I'm primarily focused on building out the Basketball Intelligence Platform we provide to our NBA clients.",
     "aboutme3": "When I'm not staring at my computer, you can find me on the ski slopes, running with my dog, playing sports, or watching my favorite teams play (Arsenal FC, Denver Nuggets, Denver Broncos, and the USWNT).",
     
     "address": "",
@@ -46,9 +46,17 @@ let resumeData = {
     "work":[
         {    
             "CompanyName": "🏀 Zelus Analytics",
+            "specialization": "Engineering Lead",
+            "StartDate": "August 2023",
+            "EndDate": "Present",
+            "Description": "",
+            "Achievement1": ""
+        },
+        {    
+            "CompanyName": "🏀 Zelus Analytics",
             "specialization": "Machine Learning Engineer",
             "StartDate": "October 2021",
-            "EndDate": "Present",
+            "EndDate": "August 2023",
             "Description": "",
             "Achievement1": "Building sports intelligence platforms by building, automating, and deploying quantitative models to help professional sports teams compete and win championships"
         },
