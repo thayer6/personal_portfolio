@@ -7,7 +7,7 @@ export default class Resume extends Component{
 
                 <div className="row work">
                     <div className="three columns header-col">
-                        <h1><span>On the Court</span></h1>
+                        <h1><span>Full-Time Roles</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         {resumeData.work && resumeData.work.map((item)=>{
@@ -30,7 +30,7 @@ export default class Resume extends Component{
                 </div>
                 <div className="row work">
                     <div className="three columns header-col">
-                        <h1><span>Off the Court</span></h1>
+                        <h1><span>Part-Time Roles</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         {resumeData.additionalWork && resumeData.additionalWork.map((item)=>{
@@ -53,7 +53,7 @@ export default class Resume extends Component{
                 </div>
                 <div className="row skill">
                     <div className="three columns header-col">
-                        <h1><span>Scouting Report</span></h1>
+                        <h1><span>Skills</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         <ul className="skills">
@@ -76,7 +76,7 @@ export default class Resume extends Component{
                 </div>
                 <div className="row education">
                     <div className="three columns header-col">
-                        <h1><span>Alma Mater</span></h1>
+                        <h1><span>Education</span></h1>
                     </div>
                     <div className="nine columns main-col">
                         {resumeData.education && resumeData.education.map((item)=>{
